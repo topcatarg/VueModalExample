@@ -1,7 +1,7 @@
 
-# How to shrink a NavBar 
+# How to show a modal with different data 
 
-> This project shows how a Bootstrap navbar can be shrink using a class that has a reactive propertie
+> This project shows how a Bootstrap modal can be shown using distinct data according to the field selected
 
 ## Build Setup
 
